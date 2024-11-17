@@ -1,0 +1,26 @@
+/* Styles for Home Page */
+
+table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+table th {
+    background-color: #f4f4f4;
+}
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+button:hover {
+    background-color: #0056b3;
+}
